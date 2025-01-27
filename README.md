@@ -20,10 +20,7 @@ Before running the tests, ensure the following tools are installed:
    ```bash
    https://github.com/mhtusher131/Automation-testing.git
    cd automation-testing-assignment
-# Automated UI and API Testing using Cypress/Playwright
 
-## Overview  
-This document outlines the automated tests for UI and API testing using Cypress or Playwright. The tests are implemented following best practices, including the Page Object Model (POM), with comprehensive assertions.
 
 ## Tests Included  
 
